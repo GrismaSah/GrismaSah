@@ -1,18 +1,92 @@
-# 💫 About Me:
-🎓 I’m currently an Undergraduate B.Tech student (2023–2027)<br>💻 Continuing my development journey while strengthening my DSA skills with Java<br>🌱 Actively learning web technologies and building small projects to apply concepts<br>🤝 Open to collaborating on beginner-friendly development projects<br>💬 Ask me about HTML, CSS, Java basics, DSA fundamentals, or student tech life<br>⚡ Fun fact: I enjoy learning by building real projects alongside theory
+<h1 align="center">Hi, I'm Grisma Sah 👋</h1>
 
+<p align="center">
+  <b>Computer Science Undergraduate · Full-Stack Web Developer in the Making</b><br>
+  I build real-world web applications while strengthening my fundamentals in Java & Data Structures.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grisma-s-a940562b6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/grisyX1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23btrcn082@jainuniversity.ac.in) 
+<p align="center">
+  <a href="https://linkedin.com/in/grisma-s-a940562b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:23btrcn082@jainuniversity.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/grisyX1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GrismaSah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GrismaSah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GrismaSah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 **B.Tech in Computer Science** (2023 – 2027), Jain University
+- 💻 Building **full-stack web projects** — from static sites to database-driven applications
+- ☕ Sharpening **DSA in Java** with consistent, documented practice
+- 🌱 Currently exploring **JavaScript deep-dive & backend development**
+- 🤝 Open to **collaboration, internships, and open-source contributions**
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[FreelanceHub](https://github.com/GrismaSah/freelancehub)** | A freelance marketplace platform inspired by Upwork & Fiverr — user accounts, job listings, and client–freelancer workflows | `PHP` `MySQL` `HTML` `CSS` |
+| **[Mini Projects](https://github.com/GrismaSah/mini_projects)** | A growing collection of interactive front-end builds to master core JavaScript and DOM manipulation | `HTML` `CSS` `JavaScript` |
+| **[Portfolio Website](https://github.com/GrismaSah/sample-portfolio)** | Responsive personal portfolio built from scratch — no frameworks, pure fundamentals | `HTML` `CSS` |
+| **[DSA in Java](https://github.com/GrismaSah/Dsa--Basics)** | Implementations of core data structures & algorithms, organized topic-wise | `Java` |
+| **[Java Basics](https://github.com/GrismaSah/Java-Basics)** | Foundation programs covering OOP, control flow, and core Java concepts | `Java` |
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GrismaSah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrismaSah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GrismaSah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Ship a **full-stack project with authentication & a REST backend**
+- Solve **150+ DSA problems** in Java
+- Make my **first open-source contribution**
+
+---
+
+<p align="center">
+  <i>“Learning by building — one project at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GrismaSah&style=flat-square&color=blue" alt="Profile views"/>
+</p>
