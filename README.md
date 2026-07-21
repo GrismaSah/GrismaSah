@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Grisma Sah 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Grisma+Sah+%F0%9F%91%8B;Computer+Science+Undergraduate;Full-Stack+Web+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <b>Computer Science Undergraduate · Full-Stack Web Developer in the Making</b><br>
@@ -64,24 +66,21 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrismaSah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrismaSah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=GrismaSah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GrismaSah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GrismaSah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GrismaSah&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
-## 🎯 2026 Goals
-
-- Ship a **full-stack project with authentication & a REST backend**
-- Solve **150+ DSA problems** in Java
-- Make my **first open-source contribution**
-
----
 
 <p align="center">
   <i>“Learning by building — one project at a time.”</i>
