@@ -66,8 +66,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=GrismaSah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GrismaSah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
